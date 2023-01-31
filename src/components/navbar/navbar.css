@@ -40,6 +40,7 @@
     font-size: 18px;
     line-height: 25px;
     text-transform: capitalize;
+
     color: #FFFFFF;
     margin: 0 1rem;
     cursor: pointer;
@@ -49,11 +50,13 @@
     padding: 0.5rem 1rem;
     color: #fff;
     font-family: 'Manrope';
+    font-size: 18px;
+    line-height: 25px;
+    
     font-weight: 500;
     left: 1153px;
     top: 55px;
     background: #ff4820;
     border-radius: 5px;
-
 }
 
